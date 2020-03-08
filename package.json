@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/nperezd/GoogleSearchNPD#readme",
   "dependencies": {
+    "jasmine-spec-reporter": "^4.2.1",
     "protractor": "^5.4.3"
   },
   "devDependencies": {
