@@ -13,5 +13,6 @@ describe('Search for The name of the wind', () => {
     await $('.gNO89b').click();
     await(browser.sleep(5000));
     await $('[href="https://www.patrickrothfuss.com/content/books.asp').click();
+    await(browser.sleep(5000));
   });
 });

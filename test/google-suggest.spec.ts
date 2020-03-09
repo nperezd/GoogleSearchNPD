@@ -13,5 +13,6 @@ describe('Click on the first suggestion for The name of the w', () => {
     await $('.sbl1').click();
     await(browser.sleep(5000));
     await $('[href="https://www.patrickrothfuss.com/content/books.asp').click();
+    await(browser.sleep(5000));
   });
 });
